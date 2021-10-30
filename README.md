@@ -1,8 +1,9 @@
 ### Olá! Eu sou Jéssica Nascimento ❤
 
 - 👩🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (Cursando)
-- 🌱 Estudando Python
 - 🖥 JavaScript
+-🌱 Estudando Python
+-🌱 Estudando React.js
 - 💻 HTML5
 - 👩🏽‍💻 CSS3
 
