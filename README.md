@@ -2,8 +2,8 @@
 
 - 👩🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (Cursando)
 - 🖥 JavaScript
--🌱 Estudando Python
--🌱 Estudando React.js
+- 🌱 Estudando Python
+- 🌱 Estudando React.js
 - 💻 HTML5
 - 👩🏽‍💻 CSS3
 
