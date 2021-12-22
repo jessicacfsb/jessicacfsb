@@ -1,11 +1,12 @@
 ### Olá! Eu sou Jéssica Nascimento ❤
 
 - 👩🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (Cursando)
+- 📍 Curitiba - PR
 - 🖥 JavaScript
-- 🐱‍👤 Typescript
-- 🌱 Python
 - 💻 HTML5
 - 👩🏽‍💻 CSS3
+- 🐱‍👤 Typescript
+- 🌱 Python
 
 <div>
   <a href="https://github.com/jessicacfsb">
