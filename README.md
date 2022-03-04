@@ -5,7 +5,6 @@
 - 🖥 JavaScript
 - 💻 HTML5
 - 👩🏽‍💻 CSS3
-- 🌱 C
 - 🌱 C#
 - 🐱‍👤 Typescript
 - 🌱 Python
