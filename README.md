@@ -2,6 +2,7 @@
 
 - 👩🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (Cursando)
 - 📍 Curitiba - PR
+- ☕Java
 - 🐱‍👤CSharp (C#)
 - 🌋.Net
 - 🖥 JavaScript
