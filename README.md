@@ -8,7 +8,8 @@
 |Linguagens e ferramentas|||
 |---|---|---|
 | ☕ Java | 🖥 JavaScript | 👩🏽‍💻 CSS3 |
-| 💻 HTML5| 💾 SQL | 🦋 Bootstrap|
+| 💻 HTML5| 💾 Oracle | 🔺 Angular12 |
+| 🦋 Bootstrap | ✍ Typescript | |
 
 
 <div>
