@@ -44,6 +44,6 @@
   
    
   
-  ![Snake animation](https://github.com/jessicacfsb/jessicacfsb/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://githubusercontent.com)
  
 </div>
