@@ -7,8 +7,8 @@
   
 |Linguagens e ferramentas|||
 |---|---|---|
-| ☕ Java | 🖥 JavaScript | 👩🏽‍💻 CSS3 |
-| 💻 HTML5| 💾 Oracle | 🔺 Angular |
+| ☕ Java | 🔺 Angular | 👩🏽‍💻 CSS3 |
+| 💻 HTML5| 💾 Oracle | 🖥 JavaScript |
 | 🦋 Bootstrap | ✍ Typescript | 🚀 Ionic |
 
 
