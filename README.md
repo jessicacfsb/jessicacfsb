@@ -12,11 +12,11 @@
 | 🦋 Bootstrap | ✍ Typescript | 🚀 Ionic |
 
 
-<div>
+<!-- <div> mostra stats mas esta fora do ar
   <a href="https://github.com/jessicacfsb">
   <img width="450em" src="https://github-readme-stats.vercel.app/api?username=jessicacfsb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicacfsb&layout=compact&langs_count=7&theme=radical"/>
-</div>
+</div> -->
 
 <h3>🛠 Tech Stacks:</h3>
 <div style="display: inline_block"><br>
@@ -42,8 +42,11 @@
   <a href = "mailto:jessicafnb.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/jehh.nascimento" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
-   
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jessicacfsb/jessicacfsb/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jessicacfsb/jessicacfsb/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/jessicacfsb/jessicacfsb/output/snake.svg">
+</picture>
   
- ![Snake animation](https://github.com/jessicacfsb/jessicacfsb/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
